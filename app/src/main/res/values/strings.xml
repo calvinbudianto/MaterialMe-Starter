@@ -1,0 +1,90 @@
+<!--
+  Copyright 2016 Google Inc.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Material Me!</string>
+    <string name="title_placeholder">Title</string>
+    <string name="news_placeholder">News</string>
+    <string name="sports_info_placeholder">Here is some news</string>
+    <string name="sports_image">Sports Image</string>
+    <string name="news">History you need to know</string>
+    <string name="paragraphs">
+        Baseball\n
+        "The history of baseball in the United States can be traced to the 19th century, when amateurs played a baseball-like game by their own informal rules using homemade equipment. The popularity of the sport inspired the semi-pro national baseball clubs in the 1860s."\n\n
+        Badminton\n
+        "Games employing shuttlecocks have been played for centuries across Eurasia, but the modern game of badminton developed in the mid-19th century among the British as a variant of the earlier game of battledore and shuttlecock. ("Battledore" was an older term for "racquet".) Its exact origin remains obscure. The name derives from the Duke of Beaufort's Badminton House in Gloucestershire, but why or when remains unclear. As early as 1860, a London toy dealer named Isaac Spratt published a booklet entitled Badminton Battledore – A New Game, but no copy is known to have survived."\n\n
+        Basketball\n
+        "The history of basketball began with its invention in 1891 in Springfield, Massachusetts by Canadian physical education instructor James Naismith as a less injury-prone sport than football. The game became established fairly quickly and grew very popular as the 20th century progressed, first in America and then throughout the world. After basketball became established in American colleges, the professional game followed. The American National Basketball Association (NBA), established in 1946, grew to a multibillion-dollar enterprise by the end of the century, and basketball became an integral part of American culture."\n\n
+        Bowling\n
+        "Bowling has a long and rich history, and today it is one of the most popular sports in the world. A British anthropologist, Sir Flinders Petrie, discovered in the 1930's a collection of objects in a child's grave in Egypt that appeared to him to be used for a crude form of bowling. If he was correct, then bowling traces its ancestry to 3200 BC."\n\n
+        Cycling\n
+        "Cycling quickly became an activity after bicycles were introduced in the 19th century and remains popular with more than a billion people worldwide used for recreation, transportation and sport."\n\n
+        Golf\n
+        "The origins of golf are unclear and much debated. However, it is generally accepted that modern golf developed in Scotland from the Middle Ages onwards. The game did not find international popularity until the late 19th century, when it spread into the rest of the United Kingdom and then to the British Empire and the United States."\n\n
+        Running\n
+        "It is assumed that the ancestors of humankind developed the ability to run for long distances about 2.6 million years ago, probably in order to hunt animals. Competitive running grew out of religious festivals in various areas. Records of competitive racing date back to the Tailteann Games in Ireland in 1829 BCE,[citation needed] while the first recorded Olympic Games took place in 776 BCE. Running has been described as the world's most accessible sport."\n\n
+        Soccer\n
+        "The contemporary history of the world's favourite game spans more than 100 years. It all began in 1863 in England, when rugby football and association football branched off on their different courses and the Football Association in England was formed - becoming the sport's first governing body."\n\n
+        Swimming\n
+        "Competitive swimming in Britain started around 1830, mostly using breaststroke. Swimming was part of the first modern Olympic games in 1896 in Athens. In 1908, the world swimming association, Fédération Internationale de Natation (FINA), was formed."\n\n
+        Table Tennis\n
+        "The sport originated in Victorian England, where it was played among the upper-class as an after-dinner parlour game. It has been suggested that makeshift versions of the game were developed by British military officers in India in around 1860s or 1870s, who brought it back with them. A row of books stood up along the center of the table as a net, two more books served as rackets and were used to continuously hit a golf-ball."\n\n
+        Tennis\n
+        "The game that most people call 'tennis' is the direct descendant of what is now known as real tennis or royal tennis (which continues to be played today as a separate sport with more complex rules). Most rules of the game commonly known as tennis derive from it. It is reasonable to see both sports as variations of the same game. The idea that tennis originated in the monastic cloisters in northern France in the 12th century has been largely discredited, but it is correct that in the first few centuries in which it was played, the ball was then struck with the palm of the hand; hence, the name jeu de paume ("game of the palm"). It was not until the 16th century that rackets came into use, and the game began to be called "tennis." It was popular in England and France, and Henry VIII of England was a big fan of the game, now referred to as real tennis."\n\n
+    </string>
+
+    <string-array name="sports_titles">
+        <item>Baseball</item>
+        <item>Badminton</item>
+        <item>Basketball</item>
+        <item>Bowling</item>
+        <item>Cycling</item>
+        <item>Golf</item>
+        <item>Running</item>
+        <item>Soccer</item>
+        <item>Swimming</item>
+        <item>Table Tennis</item>
+        <item>Tennis</item>
+    </string-array>
+
+    <string-array name="sports_info">
+        <item>Here is some Baseball news!</item>
+        <item>Here is some Badminton news!</item>
+        <item>Here is some Basketball news!</item>
+        <item>Here is some Bowling news!</item>
+        <item>Here is some Cycling news!</item>
+        <item>Here is some Golf news!</item>
+        <item>Here is some Running news!</item>
+        <item>Here is some Soccer news!</item>
+        <item>Here is some Swimming news!</item>
+        <item>Here is some Table Tennis news!</item>
+        <item>Here is some Tennis news!</item>
+    </string-array>
+
+    <array name="sports_images">
+        <item>@drawable/img_baseball</item>
+        <item>@drawable/img_badminton</item>
+        <item>@drawable/img_basketball</item>
+        <item>@drawable/img_bowling</item>
+        <item>@drawable/img_cycling</item>
+        <item>@drawable/img_golf</item>
+        <item>@drawable/img_running</item>
+        <item>@drawable/img_soccer</item>
+        <item>@drawable/img_swimming</item>
+        <item>@drawable/img_tabletennis</item>
+        <item>@drawable/img_tennis</item>
+    </array>
+
+</resources>
